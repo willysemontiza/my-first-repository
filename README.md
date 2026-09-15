@@ -11,4 +11,4 @@ I want to gain more knowledge about technology and software development.
 ## Learning Goal
 
 My goal is to learn how to use Git and GitHub to manage projects 
-and improve my programming skills.
+and improve my programming skills. 
